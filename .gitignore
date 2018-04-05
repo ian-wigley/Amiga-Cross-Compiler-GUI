@@ -1,0 +1,6 @@
+*.lock
+.vs/68KCompilerGUI/v15/.suo
+68KCompilerGUI/obj/Debug/68KCompilerGUI.csproj.FileListAbsolute.txt
+68KCompilerGUI/amiga-dev-master/vc.cfg
+.vs/68KCompilerGUI/v15/Server/sqlite3/storage.ide
+68KCompilerGUI/bin/Debug/Interop.exe

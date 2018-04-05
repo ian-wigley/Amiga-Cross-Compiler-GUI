@@ -1,2 +1,4 @@
 # Amiga-Cross-Compiler-GUI
-C# GUI for Amiga Cross-Compiler (VBCC)
+This is a small front end written in C# for Amiga Cross-Compiler (VBCC).
+
+![](68KCompilerGUI/AmigaC.jpg)
